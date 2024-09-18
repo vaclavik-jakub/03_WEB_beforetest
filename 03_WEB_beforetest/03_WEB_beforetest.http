@@ -1,0 +1,6 @@
+@_03_WEB_beforetest_HostAddress = http://localhost:5226
+
+GET {{_03_WEB_beforetest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
